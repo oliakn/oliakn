@@ -17,11 +17,11 @@
 <a href="#">
 <img width="30px" src="https://i.ibb.co/tPbtp5R/facebook-3.png" alt="" />
 </a>
-###
+
 <a href="#">
-<img style="margin: 0 15px" width="30px" src="https://i.ibb.co/GMTHTgZ/instagram-3.png" alt="" />
+<img style="margin: 0 15" width="30px" src="https://i.ibb.co/GMTHTgZ/instagram-3.png" alt="" />
 </a>
-###
+
 <a href="#">
 <img width="30px" src="https://i.ibb.co/j8LZ6Sw/linkedin.png" alt="" />
 </a>
